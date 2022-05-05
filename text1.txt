@@ -1,0 +1,5 @@
+text
+text2
+bin/
+logs/
+text1.txt
